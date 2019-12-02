@@ -13,3 +13,8 @@ Email: dufourq@aims.ac.za
 Website: www.emmanueldufourq.com
 
 My research interests include: neuro-evolution, deep learning, general machine learning, sentiment analysis, general optimisation and evolutionary algorithms. I am currently working on the application of deep neural networks to ecological problems (audio and video).
+
+## Potential presentation topics (projects already taken are marked):
+
+* (Dr. Bah) principal component analysis, naïve bayes, recommender systems, 
+* (myself) time series LSTM recurrent neural networks and ~~audio classification~~. 
