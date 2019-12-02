@@ -12,4 +12,4 @@ Email: dufourq@aims.ac.za
 
 Website: www.emmanueldufourq.com
 
-My research interests include: neuro-evolution, deep learning, artificial intelligence, sentiment analysis, optimization, evolutionary algorithms and data classification. I am currently working on the application of deep neural networks to ecological problems.
+My research interests include: neuro-evolution, deep learning, general machine learning, sentiment analysis, general optimisation and evolutionary algorithms. I am currently working on the application of deep neural networks to ecological problems (audio and video).
