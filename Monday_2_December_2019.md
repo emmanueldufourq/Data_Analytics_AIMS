@@ -13,7 +13,7 @@ https://colab.research.google.com/drive/14Zr15mzNfkAMJuqtFFRXspwrxo306LFz
 
 ## Monday Assignment (not graded)
 
-1) It would be a good idea to try this before the next lecture. Go through the categorical cross entropy and the one-hot encoding notebooks. Try out various examples for yourself and make sure you are getting the correct output. Write out the input examples you tried and the output answer on paper. Try two different examples for cross entropy and two for one-hot encoding.
+1) It would be a good idea to try this before the next lecture. Go through the categorical cross entropy and the one-hot encoding notebooks (above). Try out various examples for yourself and make sure you are getting the correct output. Try two different examples for cross entropy and two for one-hot encoding.
 
 2) You are encouraged to view the questions on your computer and not print out the questions as this will waste quite a large amount of paper. Write out your solutions on paper though, write your full name on each page and hand it/scan it to a tutor by the next lecture (Tuesday 3 December). Since we did not cover everything today you can either do the longer (if you are brave) or shorter assignment. The shorter one contains questions for which you were taught the necessary material today.
 
@@ -23,3 +23,6 @@ Shorter assignment (only contains material taught on Monday and only 2 less ques
 
 ## Monday Assignment Solution
 To be posted later in the week.
+
+And as always, happy machine learning!
+E
