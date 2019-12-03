@@ -1,5 +1,9 @@
 ## Lecture notes, code and assignment for Tuesday 3 December 2019
 
+## Announcement
+
+Please take note of the following deep learning school: https://sites.google.com/aims.ac.za/g2s3/
+
 ## Lecture slides
 
 Continuation from Monday:
