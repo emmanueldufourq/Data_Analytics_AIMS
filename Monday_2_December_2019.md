@@ -22,7 +22,7 @@ Longer assignment: https://drive.google.com/open?id=1N5lB8-aXGXlGHKx26juJNpiMjxN
 Shorter assignment (only contains material taught on Monday and only 2 less questions than the longer one): https://drive.google.com/open?id=1P6tEt4P9_KoxNkKweLtTt1ien-Aukto%5F
 
 ## Monday Assignment Solution
-To be posted later in the week.
+https://drive.google.com/open?id=1D0K3hA4rxnQNd2QtH1Y7vM3xv-bxdWry
 
 And as always, happy machine learning!
 
