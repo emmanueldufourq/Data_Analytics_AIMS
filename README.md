@@ -17,4 +17,4 @@ My research interests include: neuro-evolution, deep learning, general machine l
 ## Potential presentation topics (projects already taken are marked):
 
 * (Dr. Bah) ~~principal component analysis~~, naïve bayes, ~~recommender systems~~, 
-* (myself) time series LSTM recurrent neural networks and ~~audio classification~~. 
+* (myself) ~~time series LSTM recurrent neural networks~~ and ~~audio classification~~. 
