@@ -20,7 +20,11 @@ Regression problem 1: https://colab.research.google.com/drive/1JxOrUIyevPUMAxvKE
 Regression problem 2: https://colab.research.google.com/drive/18u6DqCmGZLN4QMo7Qow5r53qyAtnpFae
 
 ## Tuesday Assignment Solution
-This will be posted on Wednesday afternoon.
+
+Regression problem 1 solution: https://colab.research.google.com/drive/1li14DWra50RhrNcGEAshrsokB5ieA-Zo
+
+Regression problem 2 solution: https://colab.research.google.com/drive/1vwsxmPhWsuAz353behGV9elwOmmmOAiQ
+
 
 And as always, happy machine learning!
 
