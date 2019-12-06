@@ -8,9 +8,9 @@ Image Classification problem 2: https://colab.research.google.com/drive/1rc-2QiB
 
 ## Friday Coding Solutions
 
-Image Classification problem 1 solution: To be posted on Friday evening
+Image Classification problem 1 solution: https://colab.research.google.com/drive/1JY0bmKRL2E1dFysp6-9tC1f-U94yJDfB
 
-Image Classification problem 2 solution: To be posted on Friday evening
+Image Classification problem 2 solution: https://colab.research.google.com/drive/1onhxnReyycwR7E3ozQaTSy_rYIvSJxxq
 
 And as always, happy machine learning!
 
