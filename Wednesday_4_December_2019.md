@@ -15,9 +15,9 @@ Classification problem 2: https://colab.research.google.com/drive/1yYsOkTpDhUbX2
 
 ## Wednesday Assignment Solution
 
-Classification problem 1 solution: this will be posted on Thursday afternoon
+Classification problem 1 solution: https://colab.research.google.com/drive/1m9CvbJP5JeyJeB9GbbxsbDtFoSQ3PxY7
 
-Classification problem 2 solution: this will be posted on Thursday afternoon
+Classification problem 2 solution: https://colab.research.google.com/drive/1jJBhZxR4UOwFVYNFytOpyspmNLNd36wi
 
 And as always, happy machine learning!
 
